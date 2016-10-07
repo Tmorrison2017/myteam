@@ -1,0 +1,10 @@
+#spartan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#title {
+  text-align: center;
+  color: #18453b;
+}
